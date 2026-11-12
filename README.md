@@ -8,13 +8,13 @@ I combine enterprise infrastructure experience (**AWS, Azure, Terraform, Kuberne
 
 ### 🚀 Featured Projects
 
-#### 🌐 Full-Stack Web Application *[GRYD] -> (https://github.com/yvilram/GRYD)*
+#### 🌐 [GRYD] -> (https://github.com/yvilram/GRYD)
 > **Tech Stack:** `JavaScript (Full-Stack)` • `HTML5` • `SCSS` • `Cloudflare` • `Supabase`
 * **What it is:** A live web application built entirely from scratch, using JavaScript across both the client and server sides, structured with semantic HTML and custom SCSS.
 * **Architecture & Deployment:** Hosted on GitHub with both frontend and backend deployed via **Cloudflare**, integrating **Supabase** for relational database management and user authentication.
 * **Key Takeaway:** Applying end-to-end software development practices in a live environment—managing API communication, auth flows, and edge/serverless deployments.
 
-#### ☁️ [AWS Landing Zone](https://github.com/yvilram/AWS-Terraform) *(Add repo link)*
+#### ☁️ [AWS Landing Zone](https://github.com/yvilram/AWS-Terraform)
 > **Tech Stack:** `AWS` • `Terraform` • `IaC`
 * **What it is:** A personal Infrastructure as Code project applying real-world cloud engineering practices to provision a foundational AWS environment.
 * **Engineering Focus:** Designing modular, secure, and repeatable cloud architectures using Terraform, translating workplace IaC concepts into documented portfolio templates.
@@ -59,7 +59,7 @@ I combine enterprise infrastructure experience (**AWS, Azure, Terraform, Kuberne
 
 Feel free to explore my repositories or reach out to chat about cloud infrastructure, DevOps, or web development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yago-v-1445b6313)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yvilram)
 
 *Building, breaking, learning, improving. 🚀*
