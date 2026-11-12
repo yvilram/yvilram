@@ -8,21 +8,16 @@ I combine enterprise infrastructure experience (**AWS, Azure, Terraform, Kuberne
 
 ### 🚀 Featured Projects
 
-#### 🌐 Full-Stack Web Application *(Pon aquí el nombre de tu web y el enlace al repo)*
+#### 🌐 Full-Stack Web Application *[GRYD] -> (https://github.com/yvilram/GRYD)*
 > **Tech Stack:** `JavaScript (Full-Stack)` • `HTML5` • `SCSS` • `Cloudflare` • `Supabase`
 * **What it is:** A live web application built entirely from scratch, using JavaScript across both the client and server sides, structured with semantic HTML and custom SCSS.
 * **Architecture & Deployment:** Hosted on GitHub with both frontend and backend deployed via **Cloudflare**, integrating **Supabase** for relational database management and user authentication.
 * **Key Takeaway:** Applying end-to-end software development practices in a live environment—managing API communication, auth flows, and edge/serverless deployments.
 
-#### ☁️ [AWS Landing Zone](https://github.com/yvilram) *(Add repo link)*
+#### ☁️ [AWS Landing Zone](https://github.com/yvilram/AWS-Terraform) *(Add repo link)*
 > **Tech Stack:** `AWS` • `Terraform` • `IaC`
 * **What it is:** A personal Infrastructure as Code project applying real-world cloud engineering practices to provision a foundational AWS environment.
 * **Engineering Focus:** Designing modular, secure, and repeatable cloud architectures using Terraform, translating workplace IaC concepts into documented portfolio templates.
-
-#### 🐹 [Go Learning Lab](https://github.com/yvilram) *(Add repo link)*
-> **Tech Stack:** `Go` • `REST APIs` • `Testing`
-* **What it is:** A hands-on sandbox of practical exercises and small backend services.
-* **Engineering Focus:** Exploring Go fundamentals, concurrency, and idiomatic backend development to complement my cloud and infrastructure background.
 
 ---
 
